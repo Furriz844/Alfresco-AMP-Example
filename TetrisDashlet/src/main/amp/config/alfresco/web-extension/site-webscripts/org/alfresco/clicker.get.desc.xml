@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Clicker</shortname>
+   <description>Just a one little clicker for Alfresco</description>
+   <family>dashlet</family>
+   <url>/components/dashlets/clicker</url>
+</webscript>
